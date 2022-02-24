@@ -1,0 +1,39 @@
+.nav-bar a{
+    text-decoration: none;
+}
+
+
+
+.carousel-item img{
+    height: 100vh;
+}
+
+.carousel-caption{
+    background-color: rgba(0,0,0,.3);
+    transition: background-color .5s;
+}
+.carousel-caption:hover{
+    background-color: rgba(0,0,0,.8);
+}
+
+.carousel__img{
+    margin: auto;
+    max-width: 1500px;
+
+}
+
+
+
+.card{
+    transition: box-shadow .5s;
+}
+.card:hover{
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+}
+
+
+.card-icon{
+    font-size: 5rem;
+}
+
+
