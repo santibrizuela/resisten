@@ -1,8 +1,1 @@
-MDB5
-Version: FREE 3.8.0
-
-Documentation:
-https://mdbootstrap.com/docs/standard/
-
-Contact:
-office@mdbootstrap.com
+VERSION 1.0 DE LANDINGPAGE PARA RESISTEN SRL
